@@ -1,4 +1,5 @@
 Hangman Game
+
 Welcome to the Hangman game! This is a simple command-line game where you can guess words from different categories with the help of hints. The goal is to guess the word before the hangman is fully drawn.
 
 Features
