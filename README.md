@@ -34,11 +34,15 @@ How to Play
 
 Choose a Category:
 When you start the game, you will be prompted to choose a category from the available options.
+
 Guess the Word:
 You will be given a word to guess, represented by underscores. You can guess one letter at a time or try to guess the entire word.
+
 Hints:
 You can use hints to help you guess the word. Each hint costs one chance.
+
 Tries: 
 You have 6 chances to guess the word. Each incorrect guess reduces the number of tries left.
+
 Win/Lose: 
 If you guess the word correctly, you win! If you run out of tries before guessing the word, you lose.
