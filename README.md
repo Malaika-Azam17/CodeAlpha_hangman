@@ -3,12 +3,14 @@ Hangman Game
 Welcome to the Hangman game! This is a simple command-line game where you can guess words from different categories with the help of hints. The goal is to guess the word before the hangman is fully drawn.
 
 Features
+
 Categories: The game includes multiple categories: Programming, Animals, Fruits, and Countries.
 Hints: Each word comes with three hints that can be used to assist in guessing.
 ASCII Art: The game visually represents the hangman with ASCII art that updates with each wrong guess.
 Score System: Your score increases by 10 points for a correct guess and decreases by 5 points if you lose.
 
 Code Overview
+
 display_hangman(tries)
 This function returns the current state of the hangman as ASCII art based on the number of tries left.
 
@@ -29,6 +31,7 @@ Ending the game with a win or loss message
 Asking the player if they want to play again
 
 How to Play
+
 Choose a Category: When you start the game, you will be prompted to choose a category from the available options.
 Guess the Word: You will be given a word to guess, represented by underscores. You can guess one letter at a time or try to guess the entire word.
 Hints: You can use hints to help you guess the word. Each hint costs one chance.
